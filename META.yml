@@ -1,0 +1,18 @@
+--- #YAML:1.0
+name:                Test-WWW-Mechanize-HSS
+version:             0.01
+abstract:            Test HTTP::Server::Simple programs using WWW::Mechanize
+license:             ~
+author:              
+    - Max Maischein <corion@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    HTTP::Server::Simple:          0
+    LWP::UserAgent:                5.815
+    parent:                        0.218
+    Test::WWW::Mechanize:          1.16
+    WWW::Mechanize:                1.5
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
