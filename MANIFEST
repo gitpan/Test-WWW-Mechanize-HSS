@@ -2,6 +2,8 @@
 lib/Test/WWW/Mechanize/HSS.pm
 Makefile.PL
 MANIFEST			This list of files
+MANIFEST.skip
+Changes
 t/00-use.t
 t/99-manifest.t
 t/99-pod.t
@@ -14,4 +16,5 @@ t/01-run-empty-subclass.t
 t/01-redirect.t
 t/01-params-get.t
 t/01-params-put.t
+t/01-content-type.t
 META.yml                                 Module meta-data (added by MakeMaker)
